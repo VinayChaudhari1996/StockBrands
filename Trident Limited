@@ -1,0 +1,60 @@
+{
+  "company_name": "Trident Limited",
+  "brands": [
+    "MACARON",
+    "SOFT COMFORT",
+    "SIGNATURE SELECT",
+    "PANACHE",
+    "ECOTWIST",
+    "RESTFUL RETREAT",
+    "HOTELIER",
+    "JIVA",
+    "EARTH LOVER",
+    "TRIDENT NEC",
+    "EVER ECO",
+    "GREIGE YARN",
+    "VALUE ADDED & SPECIAL YARN",
+    "DYED YARN",
+    "Super Line",
+    "Prime Line",
+    "Cartridge paper",
+    "Index paper",
+    "Stiffener paper",
+    "Diamond Line",
+    "Drawing paper",
+    "Platinum Line",
+    "Silver Line",
+    "Trident Royale",
+    "Copier Grade",
+    "Cup Stock",
+    "Carry Paper",
+    "Trident Spectra",
+    "Trident My Choice",
+    "Trident Royal Touch",
+    "Trident Digi Print",
+    "Trident Spectra Bond",
+    "Trident Enviro"
+  ],
+  "subsidiaries": [
+    {
+      "name": "Trident Home Textiles Limited",
+      "ownership": "100%",
+      "business_focus": "Home textiles, including bath and bed linen"
+    },
+    {
+      "name": "Trident Global INC",
+      "ownership": "73.50%",
+      "business_focus": "Global marketing and distribution of Trident's products"
+    },
+    {
+      "name": "Trident Europe Limited",
+      "ownership": "100%",
+      "business_focus": "Distribution and marketing of Trident products in the European market"
+    },
+    {
+      "name": "Trident Global BV",
+      "ownership": "Wholly owned by Trident Home Textiles Limited",
+      "business_focus": "Wholesale business of textiles, paper, non-food consumer goods, and clothing accessories"
+    }
+  ]
+}
