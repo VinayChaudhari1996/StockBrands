@@ -1,0 +1,71 @@
+{
+  "company": "Tata Motors Limited",
+  "brands": [
+    {
+      "name": "Tata Motors",
+      "description": "A leading global automobile manufacturer offering a diverse portfolio of integrated, smart, and e-mobility solutions."
+    },
+    {
+      "name": "Jaguar Land Rover (JLR)",
+      "description": "A British luxury automobile manufacturer known for its premium cars and SUVs under the Jaguar and Land Rover brands. JLR is undergoing a significant transformation towards electrification."
+    },
+    {
+      "name": "Tata Daewoo",
+      "description": "A commercial vehicle manufacturer in South Korea producing a wide range of trucks and buses."
+    },
+    {
+      "name": "Tata Passenger Electric Mobility Limited (TPEML)",
+      "description": "Focuses on the production and development of electric passenger vehicles."
+    },
+    {
+      "name": "Tata Motors Passenger Vehicles Limited (TMPVL)",
+      "description": "Engages in the design, manufacture, and sale of passenger vehicles, including cars and SUVs."
+    },
+    {
+      "name": "Fiat India Automobiles Private Limited (FIAPL)",
+      "description": "A joint venture with Fiat Chrysler Automobiles, producing and marketing Fiat cars in India."
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Tata Motors Finance Limited (TMFL)",
+      "description": "Provides vehicle financing solutions and operates as a Non-Banking Financial Company (NBFC)."
+    },
+    {
+      "name": "Tata Motors Body Solutions Limited (TMBSL)",
+      "description": "Specializes in the body manufacturing of commercial vehicles."
+    },
+    {
+      "name": "TML CV Mobility Solutions Limited (TML CVMSL)",
+      "description": "Focuses on providing smart city mobility solutions and fleet services."
+    },
+    {
+      "name": "TML Smart City Mobility Solutions Limited (TML SCMSL)",
+      "description": "Engages in smart city projects and mobility solutions for urban areas."
+    },
+    {
+      "name": "TML Smart City Mobility Solutions J&K Private Limited (TML SCMS J&K)",
+      "description": "Provides smart mobility solutions specifically for the Jammu & Kashmir region."
+    },
+    {
+      "name": "PT Tata Motors Indonesia (PTTMIL)",
+      "description": "Handles the distribution and marketing of Tata Motors' vehicles in Indonesia."
+    },
+    {
+      "name": "Jaguar Land Rover Technology and Business Services Private Limited (JLRTBSI)",
+      "description": "Provides technology and business services to Jaguar Land Rover."
+    },
+    {
+      "name": "Tata Motors European Technical Centre Plc (TMETC)",
+      "description": "Engages in research and development activities in the UK."
+    },
+    {
+      "name": "Trilix S.R.L",
+      "description": "An Italian design and engineering company, part of Tata Motors, providing design solutions for automotive products."
+    },
+    {
+      "name": "Tata Cummins Private Limited (TCPL)",
+      "description": "A joint venture with Cummins Inc. for the production of diesel engines for Tata vehicles."
+    }
+  ]
+}
