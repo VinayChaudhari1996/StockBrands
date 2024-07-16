@@ -1,0 +1,98 @@
+{
+  "company_name": "Reliance Industries Limited",
+  "brands": [
+    {
+      "category": "Fashion & Lifestyle",
+      "brands": [
+        "Avantra by Trends",
+        "Kalanikethan (saree)",
+        "Portico (home furnishings)",
+        "Urban Ladder (home furniture)",
+        "Zivame (lingerie)",
+        "Clovia (lingerie)",
+        "Amante (lingerie)",
+        "Hamleys (toys)",
+        "Reliance Jewels (jewelry)",
+        "Trends (value fashion)",
+        "Trends Men",
+        "Trends Women",
+        "Trends Junior",
+        "Trends Footwear",
+        "Ajio (fashion e-commerce)",
+        "Azorte",
+        "Centro",
+        "Fashion Factory",
+        "GAP (licensed)",
+        "Tira (beauty)",
+        "Camp",
+        "Independence",
+        "Freshpik (gourmet store)",
+        "Smart",
+        "Smart Bazaar",
+        "Fresh Signature",
+        "7-Eleven (convenience stores)"
+      ]
+    },
+    {
+      "category": "Consumer Electronics",
+      "brands": [
+        "Reliance Digital",
+        "MyJio Store",
+        "resQ (service organization)"
+      ]
+    },
+    {
+      "category": "Grocery & Consumer Brands",
+      "brands": [
+        "Reliance Smart Superstore",
+        "Smart Point",
+        "Smart Bazaar",
+        "Fresh Signature",
+        "Freshpik",
+        "Campa (beverages)",
+        "Sosyo (beverages)",
+        "Lotus Chocolates",
+        "Raskik",
+        "Toffeeman",
+        "JioMart (e-commerce)",
+        "Milkbasket (subscription service)"
+      ]
+    }
+  ],
+  "subsidiaries": [
+    "Reliance Retail Ventures Limited (RRVL)",
+    "Reliance Retail Limited",
+    "Reliance Jio Infocomm Limited",
+    "Reliance Brands Limited",
+    "Reliance Brands Luxury Fashion Private Limited",
+    "Reliance Digital Retail Limited",
+    "Reliance Lifestyle Holdings Limited",
+    "Reliance Trends Limited",
+    "Reliance Vantage Retail Limited",
+    "Reliance Universal Traders Private Limited",
+    "Reliance Prolific Traders Private Limited",
+    "Reliance Eminent Trading & Commercial Private Limited",
+    "Reliance Progressive Traders Private Limited",
+    "Reliance Clothing India Limited",
+    "Reliance Commercial Dealers Limited",
+    "Reliance Comtrade Private Limited",
+    "Reliance Corporate IT Park Limited",
+    "Reliance New Energy Limited",
+    "Reliance Strategic Business Ventures Limited",
+    "Reliance Carbon Fibre Cylinder Limited",
+    "Reliance Chemicals and Materials Limited",
+    "Reliance Clothing India Limited (formerly known as Reliance Clothing India Private Limited)",
+    "Reliance Jio Media Limited",
+    "Reliance Petro Marketing Limited",
+    "Reliance Energy Generation and Distribution Limited",
+    "Reliance Universal Enterprises Limited",
+    "Reliance Gas Pipelines Limited",
+    "Reliance Ethane Holding Pte Limited"
+  ],
+  "joint_ventures": [
+    "Reliance BP Mobility Limited",
+    "Reliance Sibur Elastomers Private Limited",
+    "Viacom18 Media Private Limited",
+    "Alok Industries Limited"
+  ]
+}
