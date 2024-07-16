@@ -1,0 +1,59 @@
+{
+  "company_name": "Aditya Birla Fashion and Retail Limited",
+  "brands": [
+    {
+      "category": "Super Premium and Luxury Retail",
+      "brands": [
+        "The Collective",
+        "Ralph Lauren",
+        "Fred Perry",
+        "Ted Baker",
+        "Hackett London"
+      ]
+    },
+    {
+      "category": "Western Wear",
+      "brands": [
+        "Louis Philippe",
+        "Van Heusen",
+        "Allen Solly",
+        "Peter England"
+      ]
+    },
+    {
+      "category": "Ethnic Wear",
+      "brands": [
+        "Marigold Lane",
+        "House of Masaba",
+        "Sabyasachi"
+      ]
+    },
+    {
+      "category": "Digital-First Brands",
+      "brands": [
+        "TMRW",
+        "Shantnu & Nikhil",
+        "S&N by Shantnu Nikhil",
+        "Shantnu Nikhil Cricket Club (SNCC)",
+        "Nazariya",
+        "LoveChild",
+        "Pantaloons"
+      ]
+    },
+    {
+      "category": "Indo-Western",
+      "brands": [
+        "Marigold Lane"
+      ]
+    }
+  ],
+  "subsidiaries": [
+    "Aditya Birla Fashion and Retail Limited",
+    "Aditya Birla Fashion and Retail Limited (formerly Pantaloons Fashion & Retail Limited)",
+    "Jaypore E-Commerce Pvt. Ltd."
+  ],
+  "joint_ventures": [
+    "TMRW",
+    "Forever 21"
+  ]
+}
