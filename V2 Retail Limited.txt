@@ -1,0 +1,43 @@
+{
+  "company": "V2 Retail Limited",
+  "brands": [
+    {
+      "name": "V2 Retail",
+      "description": "A leading retail chain offering a wide range of products, including apparel, footwear, accessories, and lifestyle products. The brand caters to men, women, and children, with offerings in ethnic wear, western wear, sportswear, and formal wear. Known for its affordability and accessibility, V2 Retail targets the neo-middle class and middle-class population in Tier-II and Tier-III cities in India."
+    },
+    {
+      "name": "One Human",
+      "description": "A brand under V2 Retail focusing on contemporary and trendy fashion."
+    },
+    {
+      "name": "Glamora",
+      "description": "Offers stylish and fashionable clothing for the youth segment."
+    },
+    {
+      "name": "Godspeed",
+      "description": "A brand that provides activewear and sportswear."
+    },
+    {
+      "name": "Herrlich",
+      "description": "Known for offering elegant and sophisticated clothing options."
+    },
+    {
+      "name": "Ebellia",
+      "description": "Focuses on chic and modern apparel for women."
+    },
+    {
+      "name": "No War",
+      "description": "A brand promoting peace-themed casual wear."
+    },
+    {
+      "name": "Honey Brats",
+      "description": "Specializes in fashionable and comfortable children's clothing."
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "V2 Smart Manufacturing Private Limited",
+      "description": "A wholly-owned subsidiary focusing on the manufacturing of apparel and other products. Enhances V2 Retail’s control over its supply chain and quality, contributing to cost savings and faster turnaround times."
+    }
+  ]
+}
