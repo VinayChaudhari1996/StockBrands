@@ -1,0 +1,87 @@
+{
+  "company": "Trent Limited",
+  "brands": [
+    {
+      "name": "Westside",
+      "description": "A chain of retail stores offering fashion, beauty, and home products."
+    },
+    {
+      "name": "Zudio",
+      "description": "A value fashion brand targeting young and price-conscious customers."
+    },
+    {
+      "name": "Star Bazaar",
+      "description": "A hypermarket chain offering groceries, apparel, and general merchandise."
+    },
+    {
+      "name": "Landmark",
+      "description": "A bookstore chain that also sells stationery, toys, and gifts."
+    },
+    {
+      "name": "Utsa",
+      "description": "A women’s ethnic wear brand under Westside."
+    },
+    {
+      "name": "Zara",
+      "description": "A collaboration with Zara for its operations in India, with stores in multiple cities."
+    },
+    {
+      "name": "Massimo Dutti",
+      "description": "A luxury fashion brand under the Inditex group, with stores in Mumbai and Delhi."
+    }
+  ],
+  "subsidiaries": [
+    {
+      "name": "Trent Hypermarket Private Limited",
+      "description": "Operates the Star Bazaar hypermarkets in a joint venture with Tesco PLC."
+    },
+    {
+      "name": "Booker India Limited",
+      "description": "Engages in the wholesale cash and carry business under the Booker Wholesale banner."
+    },
+    {
+      "name": "Fiora Business Support Services Limited",
+      "description": "Provides business support and consultancy services."
+    },
+    {
+      "name": "Fiora Hypermarket Limited",
+      "description": "Engages in the retailing business under the Star banners and Zudio stores."
+    },
+    {
+      "name": "Fiora Online Limited",
+      "description": "Operates the online grocery retailing business under the brand StarQuik."
+    },
+    {
+      "name": "Nahar Retail Trading Services Limited",
+      "description": "Operates as a franchisee for Trent."
+    },
+    {
+      "name": "Inditex Trent Retail India Private Limited",
+      "description": "Operates Zara stores in India."
+    },
+    {
+      "name": "Massimo Dutti India Private Limited",
+      "description": "Operates Massimo Dutti stores in India."
+    },
+    {
+      "name": "Common Wealth Developers Limited",
+      "description": "Engages in developing and managing properties (recently merged with Nahar)."
+    },
+    {
+      "name": "Trent Brands Limited",
+      "description": "Provides retail-related services through property ownership (recently merged with Nahar)."
+    },
+    {
+      "name": "Trent Global Holdings Limited",
+      "description": "Engages in investment activities and oversees Trent Global Trading LLC."
+    },
+    {
+      "name": "Trent Global Trading LLC",
+      "description": "A step-down subsidiary involved in trading textile, readymade garments, and other products."
+    },
+    {
+      "name": "Trent MAS Fashion Private Limited",
+      "description": "A joint venture with MAS Amity Pte. Ltd. for designing and manufacturing apparel."
+    }
+  ]
+}
